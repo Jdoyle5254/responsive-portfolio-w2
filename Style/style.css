@@ -1,10 +1,26 @@
 body {
-    background-image: url("Map Background .jpg.jpg");
+    background-image: url("/Images/MapBackground.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    position: relative
   }
-  /* jumbotron header  */
-  .display-4 .lead {
-    font-family: 'Indie Flower', cursive ;
+
+  p {
+    font-weight: bolder;
+    font-family: 'Indie Flower', cursive;
+    ;
   }
+ 
+  /* jumbotron header?  */
+  .jumbotron {
+    background-image: url("Images/MAP Background2.jpg");
+    font-family: 'Indie Flower', cursive;
+    background-color: whitesmoke;
+  }
+
 /* all three nav bars */
   nav {
     background-color: pink;
@@ -13,7 +29,7 @@ body {
     font-weight: bolder;
   }
 /* heaaders on each page  */
-  .container h1 h2 {
+   h1 h2 {
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     color: darkslategrey
