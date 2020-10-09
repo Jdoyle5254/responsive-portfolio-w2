@@ -1,0 +1,33 @@
+body {
+    background-image: url("Map Background .jpg.jpg");
+  }
+  /* jumbotron header  */
+  .display-4 .lead {
+    font-family: 'Indie Flower', cursive ;
+  }
+/* all three nav bars */
+  nav {
+    background-color: khaki;
+    color: darkslategrey;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+  }
+/* heaaders on each page  */
+  .container h1 h2 {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    color: darkslategrey
+
+  }
+
+  footer {
+    background-color: pink;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+    color: darkslategrey;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+  }

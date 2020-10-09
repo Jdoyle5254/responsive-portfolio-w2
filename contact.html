@@ -8,11 +8,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.0/css/all.min.css">
 <link rel="stylesheet" href="assets/css/style.css">
+<!-- Added Stylesheet for enhanced styling -->
+<link rel="stylesheet" href="Style/style.css">
 <title>Contact JD</title>
 </head>
 <body>
     <!-- This is the Navbar set top with links to the other pages -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color: burlywood">
+    <nav class="navbar navbar-expand-lg navbar-light">
       <a class="navbar-brand" href="index.html">JenDoyle</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -26,21 +28,26 @@
       </div>
     </nav>
       <div class="container-fluid">
-        <div class="container" style="background-color: paleturquoise;">
+        <div class="container" >
           <h2>Contact Jen for More Information</h2>
+    <!-- Form for Contact Information -->
           <form action="/action_page.php" class="col-md-8">
+            <!-- Name section -->
             <div class="form-group">
               <label for="Name First Last">Full Name</label>
               <input type="Name" class="form-control" id="Name" aria-describedby="Full Name">    
             </div>
+            <!-- Input email section -->
             <div class="form-group">
                 <label for="exampleInputEmail1">Email address</label>
                 <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="Add Email">        
             </div>
+            <!-- input message section  -->
             <div class="form-group">
                 <label for="Internal Message">Message </label>
                 <textarea class="form-control" id="internaltextbox" rows="3"></textarea>
             </div>
+            <!-- button for user to submit the form -->
             <button type="submit" class="btn btn-primary">Submit</button>
           </form>
           
