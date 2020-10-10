@@ -21,11 +21,7 @@ For users to send for more information or to contact me, they can navigate to th
 ![Contact mePNG](https://user-images.githubusercontent.com/69594945/95664149-d53c2800-0b0a-11eb-9fea-7924ab5ebbaf.PNG)
 
 For users to view other projects I have created they can navigate to the Portfolio page to view samples of my other projects:
-
-
-
-
-
+![Portfolio](https://user-images.githubusercontent.com/69594945/95664155-e38a4400-0b0a-11eb-8bd5-f61a13628b79.PNG)
 
 
 
