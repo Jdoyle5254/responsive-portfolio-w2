@@ -9,9 +9,14 @@ To Install locally from Git Hub repository responsive-portfolio-w2, click CODE b
 
 ## Usage
 To navigate the site click the links on the nav bar to go to another page:
+
 ![Navbar](https://user-images.githubusercontent.com/69594945/95664128-9d34e500-0b0a-11eb-8473-71b718d6daf1.PNG)
 
 The About Me is the main page of the site and provides background details:
+
+https://github.com/Jdoyle5254/responsive-portfolio-w2/issues/2#issue-718693897
+
+
 
 
 
