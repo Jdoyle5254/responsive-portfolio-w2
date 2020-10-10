@@ -14,6 +14,9 @@ To navigate the site click the links on the nav bar to go to another page:
 
 The About Me is the main page of the site and provides background details:
 
+![aboutme](https://user-images.githubusercontent.com/69594945/95664140-c35a8500-0b0a-11eb-8c60-9dc383d51227.PNG)
+
+
 
 
 
