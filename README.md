@@ -11,6 +11,7 @@ To Install locally from Git Hub repository responsive-portfolio-w2, click CODE b
 To navigate the site click the links on the nav bar to go to another page:
 
 
+
 ## Credits
 All my classmates who ask excellent questions!  
 
