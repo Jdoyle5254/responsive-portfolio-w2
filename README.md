@@ -16,6 +16,13 @@ The About Me is the main page of the site and provides background details:
 
 ![aboutme](https://user-images.githubusercontent.com/69594945/95664140-c35a8500-0b0a-11eb-8c60-9dc383d51227.PNG)
 
+For users to send for more information or to contact me, they can navigate to the contact me page and fill out the form and a message: 
+
+![Contact mePNG](https://user-images.githubusercontent.com/69594945/95664149-d53c2800-0b0a-11eb-9fea-7924ab5ebbaf.PNG)
+
+For users to view other projects I have created they can navigate to the Portfolio page to view samples of my other projects:
+
+
 
 
 
