@@ -14,8 +14,6 @@ To navigate the site click the links on the nav bar to go to another page:
 
 The About Me is the main page of the site and provides background details:
 
-https://github.com/Jdoyle5254/responsive-portfolio-w2/issues/2#issue-718693897
-
 
 
 
