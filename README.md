@@ -1,11 +1,12 @@
 # responsive-portfolio-w2
-##Project Name 
+## Project Name 
     Jen Doyle's Portfolio Site 
+    
 ## Description 
-This project is created to show a bit about myself, Jen Doyle, a way for people to send me a message on the contact page, and a portfolio page to show my future work.  
+This project is created to provide some entertaining background information about myself, Jen Doyle.  Users can also contact me or  send me a message using this site.  This will also will provide links to my other projects for users to review.    
 
 ## Installation
-To Install locally from Git Hub repository responsive-portfolio-w2, click CODE box, select SSH and copy the repository to your clipboard.  In your command-line navigate to the folder you want to hold the repository.   Once there type 'git clone' and paste the repositiory information into the line.   Once completed open the code in VS by typing the command code .   This will take you to VS Code and you will be in the repository on your local machine. 
+To Install locally from Git Hub repository, responsive-portfolio-w2, click CODE box, select SSH and copy the repository to your clipboard.  In your command-line navigate to the folder you want to hold the repository.   Once there type 'git clone' and paste the repositiory information into the line.   Once completed open the code in VS by typing the command code .   This will take you to VS Code and you will be in the repository on your local machine. 
 
 ## Usage
 To navigate the site click the links on the nav bar to go to another page:
@@ -22,8 +23,6 @@ For users to send for more information or to contact me, they can navigate to th
 
 For users to view other projects I have created they can navigate to the Portfolio page to view samples of my other projects:
 ![Portfolio](https://user-images.githubusercontent.com/69594945/95664155-e38a4400-0b0a-11eb-8bd5-f61a13628b79.PNG)
-
-
 
 ## Credits
 All my classmates who ask excellent questions!  
