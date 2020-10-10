@@ -1,5 +1,5 @@
 body {
-    background-image: url("/Images/MapBackground.jpg");
+    background-image: url("../Images/MapBackground.jpg");
     height: 500px;
     background-position: center;
     background-repeat: repeat;
@@ -15,7 +15,6 @@ body {
  
   /* jumbotron header?  */
   .jumbotron {
-    background-image: url("Images/MAP Background2.jpg");
     font-family: 'Indie Flower', cursive;
     background-color: whitesmoke;
   }
