@@ -12,7 +12,7 @@ body {
   .lead {
     margin-bottom: 25px;
   }
-
+/* paragraph styling */
   p {
     background-color: #e8e8e8c9;
     padding: 10px;
@@ -34,13 +34,14 @@ body {
     color: darkslategrey
 
   }
-
+/* footer information */
   footer {
     background-color: pink;
     font-family: 'Indie Flower', cursive;
     font-weight: bolder;
     color: darkslategrey;
     position: fixed;
+    margin-top: 25px;
     left: 0;
     bottom: 0;
     width: 100%;
